@@ -29,7 +29,8 @@ A GitHub Actions workflow ([`validate-structure.yml`](./.github/workflows/valida
 <!-- Replace the line below with an embedded screenshot once you have a green build, e.g.: -->
 <!-- ![CI/CD green build](./docs/ci-success-screenshot.png) -->
 
-_(Add your green-build screenshot here before submitting.)_
+_<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/47daf799-3f22-4c9b-b026-5915ccd5dd9c" />
+_
 
 ## Video Walkthrough
 
