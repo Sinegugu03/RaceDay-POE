@@ -36,5 +36,4 @@ _
 
 Unlisted YouTube video walking through the planning documents, ERD decisions, endpoint plan choices, and a live run of the SQL script in SSMS:
 
-<!-- Replace with your actual unlisted video link -->
-**[YouTube video link goes here]** 
+
